@@ -1,0 +1,2 @@
+dev/luiscarino/trendingcryptocoin/android/BuildConfig.java
+ dev.luiscarino.trendingcryptocoin.android.BuildConfig
