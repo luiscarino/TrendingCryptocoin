@@ -4,7 +4,7 @@
             "outputFile": "/Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/dc5183309863ad7c374c9e1bad9a172d/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b3e963494608a10c7895b9fb8e4cac21/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/aef30b8b39605a1709b1f8fae698b048/material-1.2.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/342988bf8b884917dacaf3376ce163c3/material-1.2.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5c3668d10e6acf17f99ea32207e1e1f0/appcompat-1.2.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ab237ee83b13ce1d3fd1c70df17e9016/appcompat-1.2.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

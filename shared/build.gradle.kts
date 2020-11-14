@@ -5,12 +5,14 @@ plugins {
     id("com.android.library")
     id("kotlin-android-extensions")
     kotlin("plugin.serialization")
+    id("com.squareup.sqldelight")
 }
 group = "dev.luiscarino.trendingcryptocoin"
 version = "1.0-SNAPSHOT"
 val coroutinesVersion = "1.3.9-native-mt"
 val serializationVersion = "1.0.0-RC"
 val ktorVersion = "1.4.0"
+val sqlDelightVersion: String by project
 
 repositories {
     gradlePluginPortal()
@@ -33,6 +35,7 @@ kotlin {
                 implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:$serializationVersion")
                 implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutinesVersion")
                 implementation("io.ktor:ktor-client-core:$ktorVersion")
+                implementation("com.squareup.sqldelight:runtime:$sqlDelightVersion")
             }
         }
         val commonTest by getting {
@@ -45,6 +48,7 @@ kotlin {
             dependencies {
                 implementation("com.google.android.material:material:1.2.0")
                 implementation("io.ktor:ktor-client-android:$ktorVersion")
+                implementation("com.squareup.sqldelight:android-driver:$sqlDelightVersion")
             }
         }
         val androidTest by getting {
@@ -56,6 +60,7 @@ kotlin {
         val iosMain by getting {
             dependencies {
                 implementation("io.ktor:ktor-client-ios:$ktorVersion")
+                implementation("com.squareup.sqldelight:native-driver:$sqlDelightVersion")
             }
         }
         val iosTest by getting
@@ -76,6 +81,13 @@ android {
         }
     }
 }
+
+sqldelight {
+    database("AppDatabase") {
+        packageName = "dev.luiscarino.trendingcryptocoin.shared.cache"
+    }
+}
+
 val packForXcode by tasks.creating(Sync::class) {
     group = "build"
     val mode = System.getenv("CONFIGURATION") ?: "DEBUG"
