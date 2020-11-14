@@ -1,0 +1,15 @@
+CREATE TABLE Cryptocoin(
+id TEXT NOT NULL,
+symbol TEXT NOT NULL,
+name TEXT NOT NULL,
+currentPrice REAL
+);
+
+insertCryptocoin:
+INSERT INTO Cryptocoin(id, symbol, name, currentPrice) VALUES(?,?,?,?);
+
+removeAllCryptoCoins:
+DELETE FROM Cryptocoin;
+
+selectAllCryptocoins:
+SELECT * FROM Cryptocoin;
