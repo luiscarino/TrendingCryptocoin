@@ -1,26 +1,30 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
 	package
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:70-121
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:3:5-56
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-123
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:1-6:12
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml:5:22-64
 uses-sdk
 INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/src/androidMain/AndroidManifest.xml

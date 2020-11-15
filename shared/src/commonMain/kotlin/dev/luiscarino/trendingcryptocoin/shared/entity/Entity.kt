@@ -70,3 +70,26 @@ data class Price(
     @SerialName("last_updated")
     val lastUpdated: String
 )
+
+@Serializable
+data class TrendingCoinGecko(
+    val coins: List<Coin>,
+    val exchanges: List<String>
+)
+
+@Serializable
+data class Coin(
+    val item: Item
+)
+
+@Serializable
+data class Item(
+    val id: String,
+    val large: String,
+    @SerialName("market_cap_rank")
+    val marketCapRank: Int,
+    val name: String,
+    val score: Int,
+    val symbol: String,
+    val thumb: String
+)
