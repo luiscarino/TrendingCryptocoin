@@ -4,7 +4,7 @@
             "outputFile": "/Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
-                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/res/values-bg/values-bg.xml",
+                    "source": "/Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

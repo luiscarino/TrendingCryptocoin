@@ -1,96 +1,100 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-MERGED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6da7ec005a39de4fd378cab0584e2de6/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b37ee31a8a1bca38c5569b5ea405f33e/android-driver-1.4.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/342988bf8b884917dacaf3376ce163c3/material-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ab237ee83b13ce1d3fd1c70df17e9016/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe30d6dade6131f4d2b43f1d42f8a8d7/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6c8265b54c0693c17df102cb25fa7116/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b3e963494608a10c7895b9fb8e4cac21/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/450a6c9dbee4dbcb62ed0119b14cc7c9/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ebcbc2b42ef4b622ae8ac98c74ddc41f/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/1324fda74d3a75a191762eb13da42de3/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5ad475c6d393fffffde4e02c4666b697/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/9d4041667bb32e183fac056c573afd26/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5800555e7896bf935f7093464092cb56/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/7553d521c302862956bfbec64be0d8f3/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/d111f0ea61e43144fde7ef49eebc379c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/329fd16c0bc6c1eca9f38f691e3301a2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/863e4cdf9d7ab5fa0df009fc1503216f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/a3eff76bfdac78b139e304513c25b444/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/88917ff3c279bb5ff860b428d8754c90/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ba4e7c445041c8c6c5bdecc158687993/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/2bd5f40a8d9d69b9cd3ee512d9a6cd29/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/8c3ab4a47211d9d0740b06426f348ff2/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/1c8eccc147042ef9c70e1183de16e350/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b0b03ae4c1b8c77007aab534269b761a/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/bc8b62457de227fabe15fe00fe8b0261/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/33b5830501e7f33efbb254409d31d448/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/2da20fca794eab1e722b809dd2bc6cac/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe9ffbf08d813b972d68015546c1232e/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 	package
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:70-124
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:3:5-59
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:4:5-15:19
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:5:5-16:19
 MERGED from [com.google.android.material:material:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/342988bf8b884917dacaf3376ce163c3/material-1.2.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/342988bf8b884917dacaf3376ce163c3/material-1.2.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe30d6dade6131f4d2b43f1d42f8a8d7/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe30d6dade6131f4d2b43f1d42f8a8d7/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/2bd5f40a8d9d69b9cd3ee512d9a6cd29/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/2bd5f40a8d9d69b9cd3ee512d9a6cd29/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:7:9-35
 	android:allowBackup
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:5:13-40
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:6:9-36
 	android:theme
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:7:13-44
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:8:9-40
 activity#dev.luiscarino.trendingcryptocoin.androidApp.MainActivity
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:8:9-14:20
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:9:9-15:20
 	android:name
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:8:19-47
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:9:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:9:13-13:29
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:10:13-14:29
 action#android.intent.action.MAIN
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:10:17-68
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:11:17-69
 	android:name
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:10:25-66
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:11:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:12:17-76
+ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:13:17-77
 	android:name
-		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:12:27-74
+		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml:13:27-74
 uses-sdk
 INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 MERGED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6da7ec005a39de4fd378cab0584e2de6/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6da7ec005a39de4fd378cab0584e2de6/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b37ee31a8a1bca38c5569b5ea405f33e/android-driver-1.4.3/AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b37ee31a8a1bca38c5569b5ea405f33e/android-driver-1.4.3/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/342988bf8b884917dacaf3376ce163c3/material-1.2.0/AndroidManifest.xml:20:5-44
@@ -99,6 +103,12 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/luiscarino/.gradle/cache
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ab237ee83b13ce1d3fd1c70df17e9016/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe30d6dade6131f4d2b43f1d42f8a8d7/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/fe30d6dade6131f4d2b43f1d42f8a8d7/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6c8265b54c0693c17df102cb25fa7116/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/6c8265b54c0693c17df102cb25fa7116/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b3e963494608a10c7895b9fb8e4cac21/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b3e963494608a10c7895b9fb8e4cac21/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/450a6c9dbee4dbcb62ed0119b14cc7c9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -111,26 +121,24 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luisc
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5ad475c6d393fffffde4e02c4666b697/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/9d4041667bb32e183fac056c573afd26/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/9d4041667bb32e183fac056c573afd26/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/68f31bc472cb9d105912f638d27db67a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5800555e7896bf935f7093464092cb56/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/5800555e7896bf935f7093464092cb56/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/7553d521c302862956bfbec64be0d8f3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/7553d521c302862956bfbec64be0d8f3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/787c659c59511bde118f1a2f1c071911/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/d111f0ea61e43144fde7ef49eebc379c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/d111f0ea61e43144fde7ef49eebc379c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/329fd16c0bc6c1eca9f38f691e3301a2/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/329fd16c0bc6c1eca9f38f691e3301a2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/863e4cdf9d7ab5fa0df009fc1503216f/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/863e4cdf9d7ab5fa0df009fc1503216f/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/a3eff76bfdac78b139e304513c25b444/activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/a3eff76bfdac78b139e304513c25b444/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/eaa53c174f90b6ef32bb54e97f77a7d4/core-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/12286528ba679dcd6a5f47e38e1be93a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/3f17777e59496d7703aeb265b9dd805e/core-1.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/88917ff3c279bb5ff860b428d8754c90/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/88917ff3c279bb5ff860b428d8754c90/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/ba4e7c445041c8c6c5bdecc158687993/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
@@ -143,8 +151,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luiscarino/.gr
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/1c8eccc147042ef9c70e1183de16e350/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b0b03ae4c1b8c77007aab534269b761a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b0b03ae4c1b8c77007aab534269b761a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/b7c3e538240ce71192b6da87cab3f022/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/bc8b62457de227fabe15fe00fe8b0261/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/bc8b62457de227fabe15fe00fe8b0261/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luiscarino/.gradle/caches/transforms-2/files-2.1/33b5830501e7f33efbb254409d31d448/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
@@ -163,3 +169,7 @@ INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/android
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 		ADDED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/androidApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:shared] /Users/luiscarino/AndroidStudioProjects/TrendingCryptocoin/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-64
